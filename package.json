@@ -1,7 +1,7 @@
 {
-    "name": "RealTimeWebChat",
+    "name": "simple-socketio",
     "version": "0.0.0",
-    "description": "Real time web chat",
+    "description": "Simple SocketIO",
     "dependencies": {
         "socket.io": "latest",
         "express": "latest",
